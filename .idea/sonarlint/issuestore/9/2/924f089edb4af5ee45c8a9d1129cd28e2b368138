@@ -1,4 +1,24 @@
 
-V
-java:S1220""Move this file to a named package.J$a655994a-833d-4930-923f-352e1859e7a7
-k	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿJ$0ab9b7f2-d51f-4801-9bb2-5e8ed990c7f1
+“
+java:S1192	"KDefine a constant instead of duplicating this literal "Quantity: " 3 times.(Ãäø…üÿÿÿÿ8è´ã1J$21b3587c-1c75-43ec-ad2e-501dd0b29cf9
+”
+java:S1192"QDefine a constant instead of duplicating this literal "Invoice Amount: " 3 times.(Ò¡ÊÚ8è´ã1J$57e528b0-94db-4d7c-ba66-f77b33d1b9b4
+™
+java:S1192
+"QDefine a constant instead of duplicating this literal "Price per Item: " 3 times.(‚çÏ°ùÿÿÿÿ8è´ã1J$54388e7f-c83a-4ea9-b004-67c37de45b08
+]
+java:S1220""Move this file to a named package.8é´ã1J$6cd156ce-eb96-426a-8b43-ffdb7202f243
+m	java:S106"+Replace this use of System.out by a logger.(É”‡¡8÷´ã1J$a9816420-4aa1-4414-906a-27729995e6ff
+m	java:S106"+Replace this use of System.out by a logger.(ˆ¬ÇÀ8ø´ã1J$4ee29019-0242-4de3-aaee-1d178369245f
+r	java:S106	"+Replace this use of System.out by a logger.(Ãäø…üÿÿÿÿ8ù´ã1J$d2b931cb-03ea-47c3-ac72-403082189fed
+r	java:S106
+"+Replace this use of System.out by a logger.(‚çÏ°ùÿÿÿÿ8ú´ã1J$1517a5ab-cb9b-4008-8abc-867cf3e45fb1
+m	java:S106"+Replace this use of System.out by a logger.(Ò¡ÊÚ8ú´ã1J$a97fa9dc-ac42-4e0f-9d88-9269c774b068
+m	java:S106"+Replace this use of System.out by a logger.(÷Â’å8ü´ã1J$a426e44f-1955-4293-85ff-38d10a4a6216
+r	java:S106"+Replace this use of System.out by a logger.(Ãäø…üÿÿÿÿ8ü´ã1J$6d6a8d1a-60ec-4671-ae9c-20504561bb6d
+r	java:S106"+Replace this use of System.out by a logger.(‚çÏ°ùÿÿÿÿ8ı´ã1J$8c534284-5dcc-45b4-a1b5-d377fe03cc6d
+m	java:S106"+Replace this use of System.out by a logger.(Ò¡ÊÚ8ı´ã1J$d534bf10-b883-4547-8bd1-174f0209e3b1
+m	java:S106"+Replace this use of System.out by a logger.(Ğì­Ù8ÿ´ã1J$8bb7fa7c-c8aa-4733-a219-25a4c2d4ab68
+r	java:S106"+Replace this use of System.out by a logger.(Ãäø…üÿÿÿÿ8ÿ´ã1J$de2879a4-f4c3-4bdd-a80f-66856a17a598
+r	java:S106"+Replace this use of System.out by a logger.(‚çÏ°ùÿÿÿÿ8€´ã1J$b53014b5-c7d0-4797-b7b4-ace46eee0ee4
+m	java:S106"+Replace this use of System.out by a logger.(Ò¡ÊÚ8´ã1J$37b34a98-3610-4c67-b984-2c6d3c3bc0a4
