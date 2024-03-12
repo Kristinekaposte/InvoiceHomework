@@ -7,8 +7,8 @@ public class Invoice {
     public Invoice(String partNumber, String partDescription, int quantity, int pricePerItem) {
         this.partNumber = partNumber;
         this.partDescription = partDescription;
-        setQuantity(quantity);
-        setPricePerItem(pricePerItem);
+        this.quantity = quantity;
+        this.pricePerItem = pricePerItem;
     }
 
     public String getPartNumber() {

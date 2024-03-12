@@ -1,24 +1,22 @@
 
 “
-java:S1192	"KDefine a constant instead of duplicating this literal "Quantity: " 3 times.(Ãäø…üÿÿÿÿ8è´ã1J$21b3587c-1c75-43ec-ad2e-501dd0b29cf9
+java:S1192	"KDefine a constant instead of duplicating this literal "Quantity: " 3 times.(Ãäø…üÿÿÿÿ8è´ã1J$56aad833-93af-4c8b-b9a9-f597c5dc5d06
 ”
-java:S1192"QDefine a constant instead of duplicating this literal "Invoice Amount: " 3 times.(Ò¡ÊÚ8è´ã1J$57e528b0-94db-4d7c-ba66-f77b33d1b9b4
+java:S1192"QDefine a constant instead of duplicating this literal "Invoice Amount: " 3 times.(Ò¡ÊÚ8è´ã1J$22c1cabe-a56b-45c2-97ff-3e9405c6ca76
 ™
 java:S1192
-"QDefine a constant instead of duplicating this literal "Price per Item: " 3 times.(‚çÏ°ùÿÿÿÿ8è´ã1J$54388e7f-c83a-4ea9-b004-67c37de45b08
-]
-java:S1220""Move this file to a named package.8é´ã1J$6cd156ce-eb96-426a-8b43-ffdb7202f243
-m	java:S106"+Replace this use of System.out by a logger.(É”‡¡8÷´ã1J$a9816420-4aa1-4414-906a-27729995e6ff
-m	java:S106"+Replace this use of System.out by a logger.(ˆ¬ÇÀ8ø´ã1J$4ee29019-0242-4de3-aaee-1d178369245f
-r	java:S106	"+Replace this use of System.out by a logger.(Ãäø…üÿÿÿÿ8ù´ã1J$d2b931cb-03ea-47c3-ac72-403082189fed
+"QDefine a constant instead of duplicating this literal "Price per Item: " 3 times.(‚çÏ°ùÿÿÿÿ8è´ã1J$26cccdf9-f690-42c4-89e2-cd0b66803488
+m	java:S106"+Replace this use of System.out by a logger.(É”‡¡8÷´ã1J$c534517f-f8e7-4121-bd13-f881630a6c33
+m	java:S106"+Replace this use of System.out by a logger.(ˆ¬ÇÀ8ø´ã1J$4d4756c3-240d-48b9-9752-b7c2bdf500b8
+r	java:S106	"+Replace this use of System.out by a logger.(Ãäø…üÿÿÿÿ8ù´ã1J$cf3f8a6f-2015-4b49-9aa5-2b4c6a602c5f
 r	java:S106
-"+Replace this use of System.out by a logger.(‚çÏ°ùÿÿÿÿ8ú´ã1J$1517a5ab-cb9b-4008-8abc-867cf3e45fb1
-m	java:S106"+Replace this use of System.out by a logger.(Ò¡ÊÚ8ú´ã1J$a97fa9dc-ac42-4e0f-9d88-9269c774b068
-m	java:S106"+Replace this use of System.out by a logger.(÷Â’å8ü´ã1J$a426e44f-1955-4293-85ff-38d10a4a6216
-r	java:S106"+Replace this use of System.out by a logger.(Ãäø…üÿÿÿÿ8ü´ã1J$6d6a8d1a-60ec-4671-ae9c-20504561bb6d
-r	java:S106"+Replace this use of System.out by a logger.(‚çÏ°ùÿÿÿÿ8ı´ã1J$8c534284-5dcc-45b4-a1b5-d377fe03cc6d
-m	java:S106"+Replace this use of System.out by a logger.(Ò¡ÊÚ8ı´ã1J$d534bf10-b883-4547-8bd1-174f0209e3b1
-m	java:S106"+Replace this use of System.out by a logger.(Ğì­Ù8ÿ´ã1J$8bb7fa7c-c8aa-4733-a219-25a4c2d4ab68
-r	java:S106"+Replace this use of System.out by a logger.(Ãäø…üÿÿÿÿ8ÿ´ã1J$de2879a4-f4c3-4bdd-a80f-66856a17a598
-r	java:S106"+Replace this use of System.out by a logger.(‚çÏ°ùÿÿÿÿ8€´ã1J$b53014b5-c7d0-4797-b7b4-ace46eee0ee4
-m	java:S106"+Replace this use of System.out by a logger.(Ò¡ÊÚ8´ã1J$37b34a98-3610-4c67-b984-2c6d3c3bc0a4
+"+Replace this use of System.out by a logger.(‚çÏ°ùÿÿÿÿ8ú´ã1J$847698a4-03d6-4735-ae6c-cf75a50424eb
+m	java:S106"+Replace this use of System.out by a logger.(Ò¡ÊÚ8ú´ã1J$16cf28ae-4d7c-4250-81df-2bac15a6a686
+m	java:S106"+Replace this use of System.out by a logger.(÷Â’å8ü´ã1J$608d3ab9-5ec7-4b41-9252-d647abdad46f
+r	java:S106"+Replace this use of System.out by a logger.(Ãäø…üÿÿÿÿ8ü´ã1J$90f39774-37e7-488c-9c68-c8d87808a79f
+r	java:S106"+Replace this use of System.out by a logger.(‚çÏ°ùÿÿÿÿ8ı´ã1J$064c9cc4-4fad-4efb-91ba-53b6ae3b471e
+m	java:S106"+Replace this use of System.out by a logger.(Ò¡ÊÚ8ı´ã1J$40a9eb3b-4c0e-4236-98ac-d26847f125f7
+m	java:S106"+Replace this use of System.out by a logger.(Ğì­Ù8ÿ´ã1J$6997488e-6274-4e52-8556-60792171278d
+r	java:S106"+Replace this use of System.out by a logger.(Ãäø…üÿÿÿÿ8ÿ´ã1J$61e42532-731a-474f-975b-c6942a7a0c69
+r	java:S106"+Replace this use of System.out by a logger.(‚çÏ°ùÿÿÿÿ8€´ã1J$5ef383a9-ac7a-4ab4-844d-485903038d08
+m	java:S106"+Replace this use of System.out by a logger.(Ò¡ÊÚ8´ã1J$28296a45-b2ee-4110-9657-82795e3a48f7
